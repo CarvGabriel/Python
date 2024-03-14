@@ -1,4 +1,4 @@
-# Algoritimo feito para analisar nome idade e sexo de 4 pessoas e retornar:
+# Algoritimo feito para analisar nome, idade e sexo de 4 pessoas e retornar:
 # A média das idades
 # O homem mais velho
 # Quantas mulheres tem menos de 20 anos
